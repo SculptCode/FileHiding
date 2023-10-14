@@ -25,6 +25,8 @@ Run the project
   
 ## Screenshots
 
+![screanshot](https://cdn.discordapp.com/attachments/1150872514910761111/1162775579460915250/image.png?ex=653d2a25&is=652ab525&hm=93d45ea8e1a67c641f3da4ff3c34e03d291ca334fe0522279c03db18455d2495&)
+
 ![screenshotOne](https://cdn.discordapp.com/attachments/1150872514910761111/1162769767380299816/image.png?ex=653d24bb&is=652aafbb&hm=211da274f4ca8425b057ebb97ffc18e3f50e151fa43e952bc426d7dbf16e591c&)
 
 ![screenshotTwo](https://cdn.discordapp.com/attachments/1150872514910761111/1162770141487038534/image.png?ex=653d2514&is=652ab014&hm=a4039f9652b290611dfd5c1c38340d324ad69f6b5fd95acb1feca21772fff5ca&)
